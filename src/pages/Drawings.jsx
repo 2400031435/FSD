@@ -1,3 +1,4 @@
+
 import React from "react";
 import "./Gallery.css";
 
@@ -29,5 +30,4 @@ function Drawings() {
     </div>
   );
 }
-
 export default Drawings;

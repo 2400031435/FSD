@@ -1,11 +1,9 @@
-import React from "react";
+
 import "./Gallery.css";
 
 import sculpture1 from "../assets/images/sculpture1.jpg";
 import sculpture2 from "../assets/images/sculpture2.jpg";
-import sculpture3 from "../assets/images/sculpture3.jpg";
-
-function Sculpture() {
+import sculpture3 from "../assets/images/sculpture3.jpg";function Sculpture() {
   return (
     <div className="gallery">
       <h1>Sculpture</h1>
@@ -29,5 +27,4 @@ function Sculpture() {
     </div>
   );
 }
-
 export default Sculpture;

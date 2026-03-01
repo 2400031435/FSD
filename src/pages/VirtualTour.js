@@ -11,5 +11,4 @@ function VirtualTour() {
     </div>
   );
 }
-
 export default VirtualTour;

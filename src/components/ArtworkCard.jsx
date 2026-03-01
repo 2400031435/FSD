@@ -13,5 +13,4 @@ function ArtworkCard({ artwork }) {
     </div>
   );
 }
-
 export default ArtworkCard;
